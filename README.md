@@ -9,6 +9,7 @@ It's in the description. But uh, it's a lua executor, it allows you to run lua c
 I don't really know if any addon dev or whatever uses that kind of tool but, it can, imo, really be usefull to:
 1. test code in game such as menus, loops, anything, i don't even have to explain
 2. code anti cheats by detecting injected/executed code in the client
+3. perform any kind of research on garry's mod lua and it's environment.
 
 # What is that file ?
 - compiler.py is the compiler, it's in the name. It turns the raw C script into a dll.
