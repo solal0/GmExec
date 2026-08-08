@@ -6,13 +6,13 @@ A debug tool for developers and addon creators who use garry's mod lua to run ar
 
 # What is it for ?
 It's in the description. But uh, it's a lua executor, it allows you to run lua code into garry's mod.
-I don't really know if any addon dev or whatever uses that kind of tool but, it can, imo, really be usefull to
+I don't really know if any addon dev or whatever uses that kind of tool but, it can, imo, really be usefull to:
 1. test code in game such as menus, loops, anything, i don't even have to explain
 2. code anti cheats by detecting injected/executed code in the client
 
 # What is that file ?
 - compiler.py is the compiler, it's in the name. It turns the raw C script into a dll.
-- when compiled and injected, source.c provides a debug console and a windows interface to run code. The ui is ugly but that's how windows is and I don't know if and how I can make it better.
+- when compiled and injected, source.c provides a debug console and a windows interface to run code. The ui is ugly but that's how windows is and I don't know if and how I can enhance it.
 - when compiled and injected, source_http.c opens a port (8080 by default) on the localhost who hosts a html (executor) at the root (http://127.0.0.1:8080) and a endpoint (http://127.0.0.1:8080/execute) that allows any program to run lua with a POST:
 
 ```html
