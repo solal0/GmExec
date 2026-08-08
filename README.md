@@ -2,7 +2,7 @@
 A debug tool for developers and addon creators who use garry's mod lua to run arbitrary code in the game easily.
 
 # What does GmExec do ?
-[a lot of stuff.](https://www.youtube.com/watch?v=Pz-SZlU4C10) It's open source brotato, just read the code (i'm too tired to explain)
+[a lot of things.](https://www.youtube.com/watch?v=Pz-SZlU4C10) You can see what each file does below.
 
 # What is it for ?
 It's in the description. But uh, it's a lua executor, it allows you to run lua code into garry's mod.
