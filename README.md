@@ -32,3 +32,7 @@ I tried using Visual Studio many times but since I know python better and there'
 
 # Where can I use it ?
 in servers who allow the use of such tool.
+
+# What can't I do ?
+- using this tool for anything malicious
+- doing anything that's agaisn't Garry's Mod/Valve TOS/rules with or without this tool
